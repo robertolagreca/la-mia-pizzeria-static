@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\css\Nuova cartella\" />
     <Folder Include="wwwroot\img\" />
   </ItemGroup>
 
